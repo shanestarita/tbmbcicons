@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="350"
+   height="350"
+   viewBox="0 0 350 350"
+   fill="none"
+   version="1.1"
+   id="svg38"
+   sodipodi:docname="DIRSSE.svg"
+   inkscape:version="1.3.1 (91b66b0783, 2023-11-16)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview38"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="2.22"
+     inkscape:cx="175"
+     inkscape:cy="175"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg38" />
+  <g
+     filter="url(#filter0_d_0_4)"
+     id="g36">
+    <path
+       d="M130.393 81.9383L128.758 104.974L149.526 94.8722L130.393 81.9383ZM219.679 260.913L140.066 97.2499L136.469 98.9996L216.082 262.663L219.679 260.913Z"
+       fill="#EED605"
+       id="path36" />
+  </g>
+  <defs
+     id="defs38">
+    <filter
+       id="filter0_d_0_4"
+       x="124.758"
+       y="81.9383"
+       width="98.9206"
+       height="188.725"
+       filterUnits="userSpaceOnUse"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         flood-opacity="0"
+         result="BackgroundImageFix"
+         id="feFlood36" />
+      <feColorMatrix
+         in="SourceAlpha"
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+         result="hardAlpha"
+         id="feColorMatrix36" />
+      <feOffset
+         dy="4"
+         id="feOffset36" />
+      <feGaussianBlur
+         stdDeviation="2"
+         id="feGaussianBlur36" />
+      <feComposite
+         in2="hardAlpha"
+         operator="out"
+         id="feComposite36" />
+      <feColorMatrix
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"
+         id="feColorMatrix37" />
+      <feBlend
+         mode="normal"
+         in2="BackgroundImageFix"
+         result="effect1_dropShadow_0_4"
+         id="feBlend37" />
+      <feBlend
+         mode="normal"
+         in="SourceGraphic"
+         in2="effect1_dropShadow_0_4"
+         result="shape"
+         id="feBlend38" />
+    </filter>
+  </defs>
+</svg>
